@@ -7,3 +7,6 @@ for i in range (1,11):
 z = 23
 print(z)
 
+s=12
+
+
